@@ -20,8 +20,11 @@ clone repo , make edit , and  submit pull request
 git clone 
 ```
 
+
 ## Usage
-know html, css , js 
+### 1.know html, css , js 
+### 2. have the will to help 
+
 
 
 ## Contributing
