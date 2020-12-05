@@ -1,40 +1,4 @@
-:root {
-  --peg-board-background: #000000;
-  --peg-border-color: #131313;
-  --peg-default-color: #303030;
-  --peg-color-white: white;
-  --peg-color-red: red;
-  --peg-color-orange: orange;
-  --peg-color-yellow: yellow;
-  --peg-color-green: green;
-  --peg-color-blue: blue;
-  --peg-color-purple: purple;
-}
-
 body {
-  background-color: var(--peg-board-background);
-}
-
-main {
-  min-width: 1000px;
-}
-
-.board-row {
-  display: flex;
-  flex-wrap: nowrap;
-  padding-bottom: 0.5em;
-}
-
-.board-row:nth-child(odd) {
-  padding-left: 0.5em;
-}
-
-.board-peg {
-  width: 0.6em;
-  height: 0.6em;
-  border-radius: 1em;
-  border: 1px solid var(--peg-border-color);
-  background-color: var(--peg-default-color);
-  user-select: none;
-  margin-right: 0.5em;
+    background-color: #88627e;
+   
 }
